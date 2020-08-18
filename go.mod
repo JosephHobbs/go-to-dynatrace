@@ -1,4 +1,4 @@
-module github.com/JosephHobbs/go-to-dynatrace/accountmgmt
+module github.com/JosephHobbs/go-to-dynatrace
 
 go 1.12
 
